@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Makakusnik
 - 👀 I’m interested in frontend/backend development but also little bit of design and server administration.
 - 🌱 I’m currently learning typescript, chakraUI, nextJS, reactJS.
-- 📫 How to reach me here or thru email: fodormarek5@gmail.com
+- 📫 How to reach me? Here or via my email: fodormarek5@gmail.com
